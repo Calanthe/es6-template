@@ -1,0 +1,11 @@
+{
+  "name": "es6-template",
+  "version": "1.0.0",
+  "description": "A template for my future projects build with es6",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Zofia Korcz",
+  "license": "MIT"
+}

@@ -13,7 +13,7 @@ class TabComponent {
 	}
 
 	render() {
-		return htmlToDOM(this.element);
+		document.body.appendChild(htmlToDOM(this.element));
 	}
 }
 
